@@ -132,7 +132,6 @@ plt.xticks(rotation='60')
 plt.legend()
 
 # 图名
-# 修改test
 plt.xlabel('Date')
 plt.ylabel('Maximum Temperature (F)')
 plt.title('Actual and Predicted Values')
